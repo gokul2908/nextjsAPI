@@ -1,8 +1,0 @@
-{
-    "server": "localhost",
-    "database": "firstdb",
-    "username": "root",
-    "password": "****",
-    "reconnectTimeout": 10000,
-    "port": 3306
-}
